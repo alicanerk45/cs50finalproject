@@ -6,16 +6,20 @@ condition under 4 categories which are gis(gastrointestinal system), nutrition
 
 Main technologies used
    - React Native
-  A framework for building native apps with React.
+  
+A framework for building native apps with React.
    - React Native Elements
-  Cross Platform React Native UI Toolkit
+
+Cross Platform React Native UI Toolkit
 
 Running the project
+
 Install NodeJS on your computer.
 
 Install yarn on your computer.
 
 Then, run the project:
+
 yarn install
 
 yarn start
