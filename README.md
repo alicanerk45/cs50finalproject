@@ -17,5 +17,7 @@ Install yarn on your computer.
 
 Then, run the project:
 yarn install
+
 yarn start
+
 yarn react-native run-android
